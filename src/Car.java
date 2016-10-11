@@ -1,6 +1,4 @@
-/**
- * Created by Shawn on 9/15/2016.
- */
+
 public class Car extends Vehicle {
     ///Setters setting values & using super() class functions
     public Car (String name, int year, boolean fourWheelDrive, int retailPrice, int mPG, boolean conv) {
